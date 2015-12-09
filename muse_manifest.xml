@@ -1,0 +1,90 @@
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1449656412057">
+  <folder name="css">
+    <file name="site_global.css" crc="3990126098"/>
+    <file name="master_a-__.css" crc="31438962" ref="index:登入:註冊"/>
+    <file name="master_b-__.css" crc="3837702423" ref="總覽:我的頁面"/>
+    <file name="index.css" crc="494389571" ref="index"/>
+    <file name="__2.css" crc="106366442" ref="總覽"/>
+    <file name="____.css" crc="3839580152" ref="我的頁面"/>
+    <file name="__1.css" crc="4060694699" ref="登入"/>
+    <file name="__.css" crc="3768928788" ref="註冊"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:註冊:登入:我的頁面:總覽"/>
+    <file name="museutils.js" crc="3777594392" ref="index:註冊:登入:我的頁面:總覽"/>
+    <file name="pie.js" crc="3827607177" ref="index:註冊:登入:我的頁面:總覽"/>
+    <file name="webpro.js" crc="474087315" ref="index:註冊:登入:我的頁面"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="index:註冊:登入"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="index:註冊:登入"/>
+    <file name="touchswipe.js" crc="100683906" ref="index:註冊:登入"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:註冊:登入:我的頁面:總覽"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index:我的頁面"/>
+    <file name="jquery.scrolleffects.js" crc="117544926" ref="index:註冊:登入:我的頁面:總覽"/>
+    <file name="form_check.php" crc="306825315" ref="註冊:登入"/>
+    <file name="form_throttle.php" crc="4293816517" ref="註冊:登入"/>
+    <file name="form_process.php" crc="109188895" ref="註冊:登入"/>
+    <file name="form-u1267.php" crc="151774568" ref="註冊"/>
+    <file name="form-u1504.php" crc="4054872441" ref="登入"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="我的頁面:總覽"/>
+    <file name="musewpdisclosure.js" crc="3952359668" ref="我的頁面"/>
+    <file name="html5shiv.js" crc="4241844378" ref="我的頁面:總覽"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="3816670741" ref="index:註冊:登入:我的頁面:總覽"/>
+    <file name="office-932926_1920.jpg" crc="312589322" ref="index:註冊:登入"/>
+    <file name="blank.gif" crc="4208392903" ref="index:註冊:登入"/>
+    <file name="startup-593341_1920.jpg" crc="513394508" ref="index:註冊:登入"/>
+    <file name="technology-791032_1920.jpg" crc="4095440489" ref="index:註冊:登入"/>
+    <file name="technology-792180_1920.jpg" crc="475493615" ref="index:註冊:登入"/>
+    <file name="loading.gif" crc="3815509949" ref="index:註冊:登入"/>
+    <file name="u422-10.png" crc="3759679839" ref="index"/>
+    <file name="貼上的影像 705x289.jpg" crc="128509304" ref="index"/>
+    <file name="u450-9.png" crc="4263539159" ref="index"/>
+    <file name="p2-u715-fr.jpg" crc="41352198" ref="index"/>
+    <file name="u739-16.png" crc="124581218" ref="index"/>
+    <file name="p3-u742-fr.jpg" crc="3996803400" ref="index"/>
+    <file name="u743-14.png" crc="3856973153" ref="index"/>
+    <file name="p4-u746-fr.jpg" crc="3885284887" ref="index"/>
+    <file name="u745-14.png" crc="305417390" ref="index"/>
+    <file name="startup-594090_1920.jpg" crc="4282043095" ref="index"/>
+    <file name="u1110-9.png" crc="484344017" ref="index"/>
+    <file name="ic.jpg" crc="3876398499" ref="index"/>
+    <file name="placeholdersmall-u1198-fr.jpg" crc="269871601" ref="index"/>
+    <file name="facebook.png" crc="317936629" ref="index:我的頁面"/>
+    <file name="facebook-u492-r-fr.png" crc="3784615052" ref="index:我的頁面"/>
+    <file name="twitter.png" crc="4102706121" ref="index:我的頁面"/>
+    <file name="pinterest.png" crc="4214682508" ref="index:我的頁面"/>
+    <file name="youtube.png" crc="442611654" ref="index:我的頁面"/>
+    <file name="u1255-6.png" crc="57757222" ref="註冊"/>
+    <file name="u1285-17.png" crc="4196054298" ref="註冊"/>
+    <file name="u1285-17-r.png" crc="4196054298" ref="註冊"/>
+    <file name="u1285-17-m.png" crc="4196054298" ref="註冊"/>
+    <file name="u1285-17-fs.png" crc="4196054298" ref="註冊"/>
+    <file name="貼上的影像 1196x446.jpg" crc="223385833" ref="註冊"/>
+    <file name="u1503-6.png" crc="451376017" ref="登入"/>
+    <file name="u1524-17.png" crc="4154891567" ref="登入"/>
+    <file name="u1524-17-r.png" crc="4154891567" ref="登入"/>
+    <file name="u1524-17-m.png" crc="4154891567" ref="登入"/>
+    <file name="u1524-17-fs.png" crc="4154891567" ref="登入"/>
+    <file name="jones_nccu_136-ieu119-fr.png" crc="38885482" ref="我的頁面"/>
+    <file name="jones_nccu_136.jpg" crc="139591166" ref="我的頁面"/>
+    <file name="funny-629675_1280.jpg" crc="70723031" ref="我的頁面"/>
+    <file name="jones_nccu_136-ieu1614-fr.png" crc="246564813" ref="我的頁面"/>
+    <file name="placeholder.png" crc="243962544" ref="我的頁面"/>
+    <file name="jones_nccu_136-u2342-fr.jpg" crc="38885482" ref="總覽"/>
+    <file name="1.jpg" crc="371641195" ref="總覽"/>
+    <file name="tweeter.png" crc="192439320" ref="總覽"/>
+    <file name="img02130x130.jpg" crc="3782475063" ref="總覽"/>
+    <file name="4.jpg" crc="4185785046" ref="總覽"/>
+    <file name="2.jpg" crc="4017393161" ref="總覽"/>
+    <file name="6.jpg" crc="3758686747" ref="總覽"/>
+    <file name="3.jpg" crc="309672191" ref="總覽"/>
+    <file name="img02.jpg" crc="211302891" ref="總覽"/>
+    <file name="5.jpg" crc="467131212" ref="總覽"/>
+  </folder>
+  <file name="index.html" crc="35903297" mt="1449656360833" redirect="true"/>
+  <file name="註冊.html" crc="422230413" mt="1449656383161" redirect="true"/>
+  <file name="登入.html" crc="4094171084" mt="1449656383184" redirect="true"/>
+  <file name="我的頁面.html" crc="4029509823" mt="1449656383224" redirect="true"/>
+  <file name="總覽.html" crc="46698820" mt="1449656383231" redirect="true"/>
+</manifest>

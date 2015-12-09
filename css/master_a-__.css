@@ -1,0 +1,210 @@
+#u75
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #262626;
+	position: fixed;
+}
+
+#u77,#u93-5
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u93-2
+{
+	font-size: 22px;
+	line-height: 26px;
+	color: #F8F8F8;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+}
+
+#buttonu439
+{
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: fixed;
+}
+
+#buttonu439:hover
+{
+	background-color: #9DC9C5;
+	background-color: rgba(60, 148, 139, 0.5);
+	-pie-background: rgba(60, 148, 139, 0.5);
+}
+
+#u440-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 14px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#buttonu439:hover #u440-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu442
+{
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: fixed;
+}
+
+#buttonu442:hover
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.46);
+	-pie-background: rgba(255, 255, 255, 0.46);
+}
+
+#buttonu439.ButtonSelected,#buttonu442.ButtonSelected
+{
+	background-color: transparent;
+}
+
+#u443-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 14px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#buttonu442:hover #u443-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u444
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #262626;
+}
+
+#u444_align_to_page
+{
+	position: relative;
+}
+
+#u523-6
+{
+	background-color: transparent;
+	line-height: 23px;
+	color: #FFFFFF;
+	position: relative;
+}
+
+#u487
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u492
+{
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-khtml-border-radius: 100px;
+	border-radius: 100px;
+	position: relative;
+	background: transparent url("../images/facebook.png") no-repeat center center;
+}
+
+#u492:hover
+{
+	background: #70B0AA url("../images/facebook-u492-r-fr.png") no-repeat center center;
+	background-color: rgba(60, 148, 139, 0.73);
+}
+
+#u488
+{
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-khtml-border-radius: 100px;
+	border-radius: 100px;
+	position: relative;
+	background: transparent url("../images/twitter.png") no-repeat center center;
+}
+
+#u488:hover
+{
+	background: #3C948B url("../images/twitter.png") no-repeat center center;
+}
+
+#u490
+{
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-khtml-border-radius: 100px;
+	border-radius: 100px;
+	position: relative;
+	background: transparent url("../images/pinterest.png") no-repeat center center;
+}
+
+#u490:hover
+{
+	background: #3C948B url("../images/pinterest.png") no-repeat center center;
+}
+
+#u491
+{
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-khtml-border-radius: 100px;
+	border-radius: 100px;
+	position: relative;
+	background: transparent url("../images/youtube.png") no-repeat center center;
+}
+
+#u491:hover
+{
+	background: #3C948B url("../images/youtube.png") no-repeat center center;
+}
+
+.js #u492.ose_pre_init,.js #u488.ose_pre_init,.js #u490.ose_pre_init,.js #u491.ose_pre_init
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
